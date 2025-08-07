@@ -31,4 +31,4 @@ Focused on practical AI applications, scalable systems, and clean frontend exper
 ## 📫 Contact
 
 - **Email**: manuelmeirino05@gmail.com
-- **LinkedIn**: [linkedin.com/in/manuel-meiriño-7b9214331]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/manuel-meiriño-7b9214331))  
+- **LinkedIn**: [linkedin.com/in/manuel-meiriño-7b9214331](https://www.linkedin.com/in/manuel-meiriño-7b9214331)  
