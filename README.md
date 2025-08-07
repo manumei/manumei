@@ -26,7 +26,7 @@ Focused on practical AI applications, scalable systems, and clean frontend exper
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumei&layout=compact&hide=html,css)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manumei&show_icons=true&theme=default)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manumei&show_icons=true&theme=default) !-->
 
 ## 📫 Contact
 
