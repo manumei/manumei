@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Manuel
 
 🎓 AI Engineering Student | 💻 Full-Stack & ML Developer | 🌍 Based in Buenos Aires  
-Focused on practical AI applications, scalable systems, and clean frontend experiences.
+Focused on AI development, and its multidisciplinary applications.
 
 ## 🧠 Tech & Tools
 
